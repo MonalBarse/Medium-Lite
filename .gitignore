@@ -12,3 +12,22 @@ modern.jsonp
 resources/sass/.sass-cache/
 resources/.arch-internal-preview.css
 .arch-internal-preview.css
+# Dependency directories
+node_modules/
+
+# Hon.js build directory
+dist/
+
+# IDE specific files
+.vscode/
+.idea/
+build/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
